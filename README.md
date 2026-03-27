@@ -3,8 +3,8 @@ Catálogo de Destinos Turísticos
 
 *Integrantes*
 
-Fabio José
-Leonardo Mendonça
+Fabio José,
+Leonardo Mendonça,
 Ricardo Monteiro 
 
 *Funcionalidades*
